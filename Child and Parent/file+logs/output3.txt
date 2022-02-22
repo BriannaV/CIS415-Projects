@@ -1,0 +1,1544 @@
+File Opened.
+Child: 21812 waiting to get SIGUSR1
+Child: 21812 has SIGUSR1
+Child: 21819 waiting to get SIGUSR1
+Child: 21819 has SIGUSR1
+Child: 21829 waiting to get SIGUSR1
+Child: 21829 has SIGUSR1
+Child: 21870 waiting to get SIGUSR1
+Child: 21870 has SIGUSR1
+Child: 21877 waiting to get SIGUSR1
+Child: 21877 has SIGUSR1
+All processes completed. Exiting..
+File Opened.
+Child: 21812 waiting to get SIGUSR1
+Child: 21812 has SIGUSR1
+Child: 21819 waiting to get SIGUSR1
+Child: 21819 has SIGUSR1
+Child: 21829 waiting to get SIGUSR1
+Child: 21829 has SIGUSR1
+Child: 21870 waiting to get SIGUSR1
+Child: 21870 has SIGUSR1
+Parent: 21811 created Child: 21877
+Parent 21811 sending SIGUSR1 to Child: 21877
+Parent: 21811 send SIGSTOP to Child: 21877
+Parent: 21811 resumed Child: 21877
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21877
+Parent: 21811 resumed Child: 21877
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21877
+All processes completed. Exiting..
+File Opened.
+Child: 21812 waiting to get SIGUSR1
+Child: 21812 has SIGUSR1
+Child: 21819 waiting to get SIGUSR1
+Child: 21819 has SIGUSR1
+Child: 21829 waiting to get SIGUSR1
+Child: 21829 has SIGUSR1
+Parent: 21811 created Child: 21870
+Child: 21871 waiting to get SIGUSR1
+Child: 21871 has SIGUSR1
+Parent 21811 sending SIGUSR1 to Child: 21870
+Parent: 21811 send SIGSTOP to Child: 21870
+Parent: 21811 resumed Child: 21870
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21870
+Parent: 21811 resumed Child: 21870
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21870
+Parent: 21811 resumed Child: 21870
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21870
+Parent: 21811 resumed Child: 21870
+Parent got SIGALRM
+All processes completed. Exiting..
+File Opened.
+Child: 21812 waiting to get SIGUSR1
+Child: 21812 has SIGUSR1
+Child: 21819 waiting to get SIGUSR1
+Child: 21819 has SIGUSR1
+Child: 21829 waiting to get SIGUSR1
+Child: 21829 has SIGUSR1
+Parent: 21811 created Child: 21870
+Parent: 21811 created Child: 21871
+Parent 21811 sending SIGUSR1 to Child: 21870
+Parent 21811 sending SIGUSR1 to Child: 21871
+Parent: 21811 send SIGSTOP to Child: 21870
+Parent: 21811 send SIGSTOP to Child: 21871
+Parent: 21811 resumed Child: 21870
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21870
+Parent: 21811 resumed Child: 21871
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21871
+Parent: 21811 resumed Child: 21871
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21871
+Parent: 21811 resumed Child: 21871
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21871
+All processes completed. Exiting..
+File Opened.
+Child: 21812 waiting to get SIGUSR1
+Child: 21812 has SIGUSR1
+Child: 21819 waiting to get SIGUSR1
+Child: 21819 has SIGUSR1
+Parent: 21811 created Child: 21829
+Child: 21831 waiting to get SIGUSR1
+Child: 21831 has SIGUSR1
+Child: 21869 waiting to get SIGUSR1
+Child: 21869 has SIGUSR1
+Parent 21811 sending SIGUSR1 to Child: 21829
+Parent: 21811 send SIGSTOP to Child: 21829
+Parent: 21811 resumed Child: 21829
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21829
+Parent: 21811 resumed Child: 21829
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21829
+Parent: 21811 resumed Child: 21829
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21829
+Parent: 21811 resumed Child: 21829
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21829
+Parent: 21811 resumed Child: 21829
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21829
+Parent: 21811 resumed Child: 21829
+Parent got SIGALRM
+All processes completed. Exiting..
+File Opened.
+Child: 21812 waiting to get SIGUSR1
+Child: 21812 has SIGUSR1
+Child: 21819 waiting to get SIGUSR1
+Child: 21819 has SIGUSR1
+Parent: 21811 created Child: 21829
+Child: 21831 waiting to get SIGUSR1
+Child: 21831 has SIGUSR1
+Parent: 21811 created Child: 21869
+Parent 21811 sending SIGUSR1 to Child: 21829
+Parent 21811 sending SIGUSR1 to Child: 21869
+Parent: 21811 send SIGSTOP to Child: 21829
+Parent: 21811 send SIGSTOP to Child: 21869
+Parent: 21811 resumed Child: 21829
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21829
+Parent: 21811 resumed Child: 21869
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21869
+Parent: 21811 resumed Child: 21829
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21829
+Parent: 21811 resumed Child: 21869
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21869
+Parent: 21811 resumed Child: 21829
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21829
+Parent: 21811 resumed Child: 21869
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21869
+Parent: 21811 resumed Child: 21869
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21869
+All processes completed. Exiting..
+File Opened.
+Child: 21812 waiting to get SIGUSR1
+Child: 21812 has SIGUSR1
+Child: 21819 waiting to get SIGUSR1
+Child: 21819 has SIGUSR1
+Parent: 21811 created Child: 21829
+Parent: 21811 created Child: 21831
+Child: 21832 waiting to get SIGUSR1
+Child: 21832 has SIGUSR1
+Parent 21811 sending SIGUSR1 to Child: 21829
+Parent 21811 sending SIGUSR1 to Child: 21831
+Parent: 21811 send SIGSTOP to Child: 21829
+Parent: 21811 send SIGSTOP to Child: 21831
+Parent: 21811 resumed Child: 21829
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21829
+Parent: 21811 resumed Child: 21831
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21831
+Parent: 21811 resumed Child: 21829
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21829
+Parent: 21811 resumed Child: 21831
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21831
+Parent: 21811 resumed Child: 21831
+Parent got SIGALRM
+All processes completed. Exiting..
+File Opened.
+Child: 21812 waiting to get SIGUSR1
+Child: 21812 has SIGUSR1
+Child: 21819 waiting to get SIGUSR1
+Child: 21819 has SIGUSR1
+Parent: 21811 created Child: 21829
+Parent: 21811 created Child: 21831
+Parent: 21811 created Child: 21832
+Parent 21811 sending SIGUSR1 to Child: 21829
+Parent 21811 sending SIGUSR1 to Child: 21831
+Parent 21811 sending SIGUSR1 to Child: 21832
+Parent: 21811 send SIGSTOP to Child: 21829
+Parent: 21811 send SIGSTOP to Child: 21831
+Parent: 21811 send SIGSTOP to Child: 21832
+Parent: 21811 resumed Child: 21829
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21829
+Parent: 21811 resumed Child: 21831
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21831
+Parent: 21811 resumed Child: 21832
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21832
+Parent: 21811 resumed Child: 21829
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21829
+Parent: 21811 resumed Child: 21831
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21831
+Parent: 21811 resumed Child: 21832
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21832
+Parent: 21811 resumed Child: 21829
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21829
+Parent: 21811 resumed Child: 21831
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21831
+Parent: 21811 resumed Child: 21832
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21832
+Parent: 21811 resumed Child: 21831
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21831
+Parent: 21811 resumed Child: 21832
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21832
+Parent: 21811 resumed Child: 21832
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21832
+All processes completed. Exiting..
+File Opened.
+Child: 21812 waiting to get SIGUSR1
+Child: 21812 has SIGUSR1
+Parent: 21811 created Child: 21819
+Child: 21820 waiting to get SIGUSR1
+Child: 21820 has SIGUSR1
+Child: 21827 waiting to get SIGUSR1
+Child: 21827 has SIGUSR1
+Child: 21868 waiting to get SIGUSR1
+Child: 21868 has SIGUSR1
+Parent 21811 sending SIGUSR1 to Child: 21819
+Parent: 21811 send SIGSTOP to Child: 21819
+Parent: 21811 resumed Child: 21819
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21819
+Parent: 21811 resumed Child: 21819
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21819
+Parent: 21811 resumed Child: 21819
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21819
+Parent: 21811 resumed Child: 21819
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21819
+Parent: 21811 resumed Child: 21819
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21819
+Parent: 21811 resumed Child: 21819
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21819
+Parent: 21811 resumed Child: 21819
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21819
+Parent: 21811 resumed Child: 21819
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21819
+Parent: 21811 resumed Child: 21819
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21819
+Parent: 21811 resumed Child: 21819
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21819
+Parent: 21811 resumed Child: 21819
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21819
+Parent: 21811 resumed Child: 21819
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21819
+Parent: 21811 resumed Child: 21819
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21819
+Parent: 21811 resumed Child: 21819
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21819
+Parent: 21811 resumed Child: 21819
+Parent got SIGALRM
+All processes completed. Exiting..
+File Opened.
+Child: 21812 waiting to get SIGUSR1
+Child: 21812 has SIGUSR1
+Parent: 21811 created Child: 21819
+Child: 21820 waiting to get SIGUSR1
+Child: 21820 has SIGUSR1
+Child: 21827 waiting to get SIGUSR1
+Child: 21827 has SIGUSR1
+Parent: 21811 created Child: 21868
+Parent 21811 sending SIGUSR1 to Child: 21819
+Parent 21811 sending SIGUSR1 to Child: 21868
+Parent: 21811 send SIGSTOP to Child: 21819
+Parent: 21811 send SIGSTOP to Child: 21868
+Parent: 21811 resumed Child: 21819
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21819
+Parent: 21811 resumed Child: 21868
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21868
+Parent: 21811 resumed Child: 21819
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21819
+Parent: 21811 resumed Child: 21868
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21868
+Parent: 21811 resumed Child: 21819
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21819
+Parent: 21811 resumed Child: 21868
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21868
+Parent: 21811 resumed Child: 21819
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21819
+Parent: 21811 resumed Child: 21868
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21868
+Parent: 21811 resumed Child: 21819
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21819
+Parent: 21811 resumed Child: 21868
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21868
+Parent: 21811 resumed Child: 21819
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21819
+Parent: 21811 resumed Child: 21868
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21868
+Parent: 21811 resumed Child: 21819
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21819
+Parent: 21811 resumed Child: 21868
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21868
+Parent: 21811 resumed Child: 21819
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21819
+Parent: 21811 resumed Child: 21868
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21868
+All processes completed. Exiting..
+File Opened.
+Child: 21812 waiting to get SIGUSR1
+Child: 21812 has SIGUSR1
+Parent: 21811 created Child: 21819
+Child: 21820 waiting to get SIGUSR1
+Child: 21820 has SIGUSR1
+Parent: 21811 created Child: 21827
+Child: 21828 waiting to get SIGUSR1
+Child: 21828 has SIGUSR1
+Parent 21811 sending SIGUSR1 to Child: 21819
+Parent 21811 sending SIGUSR1 to Child: 21827
+Parent: 21811 send SIGSTOP to Child: 21819
+Parent: 21811 send SIGSTOP to Child: 21827
+Parent: 21811 resumed Child: 21819
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21819
+Parent: 21811 resumed Child: 21827
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21827
+Parent: 21811 resumed Child: 21819
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21819
+Parent: 21811 resumed Child: 21827
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21827
+Parent: 21811 resumed Child: 21819
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21819
+Parent: 21811 resumed Child: 21827
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21827
+Parent: 21811 resumed Child: 21819
+Parent got SIGALRM
+Parent: 21811 resumed Child: 21827
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21827
+Parent: 21811 resumed Child: 21827
+Parent got SIGALRM
+All processes completed. Exiting..
+File Opened.
+Child: 21812 waiting to get SIGUSR1
+Child: 21812 has SIGUSR1
+Parent: 21811 created Child: 21819
+Child: 21820 waiting to get SIGUSR1
+Child: 21820 has SIGUSR1
+Parent: 21811 created Child: 21827
+Parent: 21811 created Child: 21828
+Parent 21811 sending SIGUSR1 to Child: 21819
+Parent 21811 sending SIGUSR1 to Child: 21827
+Parent 21811 sending SIGUSR1 to Child: 21828
+Parent: 21811 send SIGSTOP to Child: 21819
+Parent: 21811 send SIGSTOP to Child: 21827
+Parent: 21811 send SIGSTOP to Child: 21828
+Parent: 21811 resumed Child: 21819
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21819
+Parent: 21811 resumed Child: 21827
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21827
+Parent: 21811 resumed Child: 21828
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21828
+Parent: 21811 resumed Child: 21819
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21819
+Parent: 21811 resumed Child: 21827
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21827
+Parent: 21811 resumed Child: 21828
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21828
+Parent: 21811 resumed Child: 21819
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21819
+Parent: 21811 resumed Child: 21827
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21827
+Parent: 21811 resumed Child: 21828
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21828
+Parent: 21811 resumed Child: 21819
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21819
+Parent: 21811 resumed Child: 21827
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21827
+Parent: 21811 resumed Child: 21828
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21828
+Parent: 21811 resumed Child: 21819
+Parent got SIGALRM
+Parent: 21811 resumed Child: 21827
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21827
+Parent: 21811 resumed Child: 21828
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21828
+Parent: 21811 resumed Child: 21828
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21828
+All processes completed. Exiting..
+File Opened.
+Child: 21812 waiting to get SIGUSR1
+Child: 21812 has SIGUSR1
+Parent: 21811 created Child: 21819
+Parent: 21811 created Child: 21820
+Child: 21822 waiting to get SIGUSR1
+Child: 21822 has SIGUSR1
+Child: 21830 waiting to get SIGUSR1
+Child: 21830 has SIGUSR1
+Parent 21811 sending SIGUSR1 to Child: 21819
+Parent 21811 sending SIGUSR1 to Child: 21820
+Parent: 21811 send SIGSTOP to Child: 21819
+Parent: 21811 send SIGSTOP to Child: 21820
+Parent: 21811 resumed Child: 21819
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21819
+Parent: 21811 resumed Child: 21820
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21820
+Parent: 21811 resumed Child: 21819
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21819
+Parent: 21811 resumed Child: 21820
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21820
+Parent: 21811 resumed Child: 21819
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21819
+Parent: 21811 resumed Child: 21820
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21820
+Parent: 21811 resumed Child: 21820
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21820
+Parent: 21811 resumed Child: 21820
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21820
+Parent: 21811 resumed Child: 21820
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21820
+Parent: 21811 resumed Child: 21820
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21820
+Parent: 21811 resumed Child: 21820
+Parent got SIGALRM
+All processes completed. Exiting..
+File Opened.
+Child: 21812 waiting to get SIGUSR1
+Child: 21812 has SIGUSR1
+Parent: 21811 created Child: 21819
+Parent: 21811 created Child: 21820
+Child: 21822 waiting to get SIGUSR1
+Child: 21822 has SIGUSR1
+Parent: 21811 created Child: 21830
+Parent 21811 sending SIGUSR1 to Child: 21819
+Parent 21811 sending SIGUSR1 to Child: 21820
+Parent 21811 sending SIGUSR1 to Child: 21830
+Parent: 21811 send SIGSTOP to Child: 21819
+Parent: 21811 send SIGSTOP to Child: 21820
+Parent: 21811 send SIGSTOP to Child: 21830
+Parent: 21811 resumed Child: 21819
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21819
+Parent: 21811 resumed Child: 21820
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21820
+Parent: 21811 resumed Child: 21830
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21830
+Parent: 21811 resumed Child: 21819
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21819
+Parent: 21811 resumed Child: 21820
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21820
+Parent: 21811 resumed Child: 21830
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21830
+Parent: 21811 resumed Child: 21819
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21819
+Parent: 21811 resumed Child: 21820
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21820
+Parent: 21811 resumed Child: 21830
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21830
+Parent: 21811 resumed Child: 21819
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21819
+Parent: 21811 resumed Child: 21820
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21820
+Parent: 21811 resumed Child: 21830
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21830
+Parent: 21811 resumed Child: 21820
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21820
+Parent: 21811 resumed Child: 21830
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21830
+Parent: 21811 resumed Child: 21820
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21820
+Parent: 21811 resumed Child: 21830
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21830
+Parent: 21811 resumed Child: 21820
+Parent got SIGALRM
+Parent: 21811 resumed Child: 21830
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21830
+All processes completed. Exiting..
+File Opened.
+Child: 21812 waiting to get SIGUSR1
+Child: 21812 has SIGUSR1
+Parent: 21811 created Child: 21819
+Parent: 21811 created Child: 21820
+Parent: 21811 created Child: 21822
+Child: 21823 waiting to get SIGUSR1
+Child: 21823 has SIGUSR1
+Parent 21811 sending SIGUSR1 to Child: 21819
+Parent 21811 sending SIGUSR1 to Child: 21820
+Parent 21811 sending SIGUSR1 to Child: 21822
+Parent: 21811 send SIGSTOP to Child: 21819
+Parent: 21811 send SIGSTOP to Child: 21820
+Parent: 21811 send SIGSTOP to Child: 21822
+Parent: 21811 resumed Child: 21819
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21819
+Parent: 21811 resumed Child: 21820
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21820
+Parent: 21811 resumed Child: 21822
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21822
+Parent: 21811 resumed Child: 21819
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21819
+Parent: 21811 resumed Child: 21820
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21820
+Parent: 21811 resumed Child: 21822
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21822
+Parent: 21811 resumed Child: 21819
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21819
+Parent: 21811 resumed Child: 21820
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21820
+Parent: 21811 resumed Child: 21822
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21822
+Parent: 21811 resumed Child: 21820
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21820
+Parent: 21811 resumed Child: 21822
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21822
+Parent: 21811 resumed Child: 21820
+Parent got SIGALRM
+Parent: 21811 resumed Child: 21822
+Parent got SIGALRM
+All processes completed. Exiting..
+File Opened.
+Child: 21812 waiting to get SIGUSR1
+Child: 21812 has SIGUSR1
+Parent: 21811 created Child: 21819
+Parent: 21811 created Child: 21820
+Parent: 21811 created Child: 21822
+Parent: 21811 created Child: 21823
+Parent 21811 sending SIGUSR1 to Child: 21819
+Parent 21811 sending SIGUSR1 to Child: 21820
+Parent 21811 sending SIGUSR1 to Child: 21822
+Parent 21811 sending SIGUSR1 to Child: 21823
+Parent: 21811 send SIGSTOP to Child: 21819
+Parent: 21811 send SIGSTOP to Child: 21820
+Parent: 21811 send SIGSTOP to Child: 21822
+Parent: 21811 send SIGSTOP to Child: 21823
+Parent: 21811 resumed Child: 21819
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21819
+Parent: 21811 resumed Child: 21820
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21820
+Parent: 21811 resumed Child: 21822
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21822
+Parent: 21811 resumed Child: 21823
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21823
+Parent: 21811 resumed Child: 21819
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21819
+Parent: 21811 resumed Child: 21820
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21820
+Parent: 21811 resumed Child: 21822
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21822
+Parent: 21811 resumed Child: 21823
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21823
+Parent: 21811 resumed Child: 21819
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21819
+Parent: 21811 resumed Child: 21820
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21820
+Parent: 21811 resumed Child: 21822
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21822
+Parent: 21811 resumed Child: 21823
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21823
+Parent: 21811 resumed Child: 21819
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21819
+Parent: 21811 resumed Child: 21820
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21820
+Parent: 21811 resumed Child: 21822
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21822
+Parent: 21811 resumed Child: 21823
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21823
+Parent: 21811 resumed Child: 21820
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21820
+Parent: 21811 resumed Child: 21822
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21822
+Parent: 21811 resumed Child: 21823
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21823
+Parent: 21811 resumed Child: 21820
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21820
+Parent: 21811 resumed Child: 21822
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21822
+Parent: 21811 resumed Child: 21823
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21823
+Parent: 21811 resumed Child: 21822
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21822
+Parent: 21811 resumed Child: 21823
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21823
+Parent: 21811 resumed Child: 21823
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21823
+All processes completed. Exiting..
+File Opened.
+Parent: 21811 created Child: 21812
+Child: 21813 waiting to get SIGUSR1
+Child: 21813 has SIGUSR1
+Child: 21824 waiting to get SIGUSR1
+Child: 21824 has SIGUSR1
+Child: 21866 waiting to get SIGUSR1
+Child: 21866 has SIGUSR1
+Child: 21876 waiting to get SIGUSR1
+Child: 21876 has SIGUSR1
+Parent 21811 sending SIGUSR1 to Child: 21812
+Parent: 21811 send SIGSTOP to Child: 21812
+Parent: 21811 resumed Child: 21812
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21812
+Parent: 21811 resumed Child: 21812
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21812
+Parent: 21811 resumed Child: 21812
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21812
+Parent: 21811 resumed Child: 21812
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21812
+Parent: 21811 resumed Child: 21812
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21812
+Parent: 21811 resumed Child: 21812
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21812
+Parent: 21811 resumed Child: 21812
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21812
+Parent: 21811 resumed Child: 21812
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21812
+Parent: 21811 resumed Child: 21812
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21812
+Parent: 21811 resumed Child: 21812
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21812
+Parent: 21811 resumed Child: 21812
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21812
+Parent: 21811 resumed Child: 21812
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21812
+Parent: 21811 resumed Child: 21812
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21812
+Parent: 21811 resumed Child: 21812
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21812
+Parent: 21811 resumed Child: 21812
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21812
+Parent: 21811 resumed Child: 21812
+Parent got SIGALRM
+All processes completed. Exiting..
+File Opened.
+Parent: 21811 created Child: 21812
+Child: 21813 waiting to get SIGUSR1
+Child: 21813 has SIGUSR1
+Child: 21824 waiting to get SIGUSR1
+Child: 21824 has SIGUSR1
+Child: 21866 waiting to get SIGUSR1
+Child: 21866 has SIGUSR1
+Parent: 21811 created Child: 21876
+Parent 21811 sending SIGUSR1 to Child: 21812
+Parent 21811 sending SIGUSR1 to Child: 21876
+Parent: 21811 send SIGSTOP to Child: 21812
+Parent: 21811 send SIGSTOP to Child: 21876
+Parent: 21811 resumed Child: 21812
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21812
+Parent: 21811 resumed Child: 21876
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21876
+Parent: 21811 resumed Child: 21812
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21812
+Parent: 21811 resumed Child: 21876
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21876
+Parent: 21811 resumed Child: 21812
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21812
+Parent: 21811 resumed Child: 21876
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21876
+Parent: 21811 resumed Child: 21812
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21812
+Parent: 21811 resumed Child: 21876
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21876
+Parent: 21811 resumed Child: 21812
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21812
+Parent: 21811 resumed Child: 21876
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21876
+Parent: 21811 resumed Child: 21812
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21812
+Parent: 21811 resumed Child: 21876
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21876
+Parent: 21811 resumed Child: 21812
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21812
+Parent: 21811 resumed Child: 21876
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21876
+Parent: 21811 resumed Child: 21812
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21812
+Parent: 21811 resumed Child: 21876
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21876
+Parent: 21811 resumed Child: 21812
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21812
+Parent: 21811 resumed Child: 21876
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21876
+Parent: 21811 resumed Child: 21812
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21812
+Parent: 21811 resumed Child: 21876
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21876
+Parent: 21811 resumed Child: 21812
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21812
+Parent: 21811 resumed Child: 21876
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21876
+Parent: 21811 resumed Child: 21876
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21876
+All processes completed. Exiting..
+File Opened.
+Parent: 21811 created Child: 21812
+Child: 21813 waiting to get SIGUSR1
+Child: 21813 has SIGUSR1
+Child: 21824 waiting to get SIGUSR1
+Child: 21824 has SIGUSR1
+Parent: 21811 created Child: 21866
+Child: 21867 waiting to get SIGUSR1
+Child: 21867 has SIGUSR1
+Parent 21811 sending SIGUSR1 to Child: 21812
+Parent 21811 sending SIGUSR1 to Child: 21866
+Parent: 21811 send SIGSTOP to Child: 21812
+Parent: 21811 send SIGSTOP to Child: 21866
+Parent: 21811 resumed Child: 21812
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21812
+Parent: 21811 resumed Child: 21866
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21866
+Parent: 21811 resumed Child: 21812
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21812
+Parent: 21811 resumed Child: 21866
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21866
+Parent: 21811 resumed Child: 21812
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21812
+Parent: 21811 resumed Child: 21866
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21866
+Parent: 21811 resumed Child: 21812
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21812
+Parent: 21811 resumed Child: 21866
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21866
+Parent: 21811 resumed Child: 21812
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21812
+Parent: 21811 resumed Child: 21866
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21866
+Parent: 21811 resumed Child: 21812
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21812
+Parent: 21811 resumed Child: 21866
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21866
+Parent: 21811 resumed Child: 21812
+Parent got SIGALRM
+Parent: 21811 resumed Child: 21866
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21866
+Parent: 21811 resumed Child: 21866
+Parent got SIGALRM
+All processes completed. Exiting..
+File Opened.
+Parent: 21811 created Child: 21812
+Parent: 21811 created Child: 21813
+Parent: 21811 created Child: 21814
+Parent: 21811 created Child: 21815
+Parent: 21811 created Child: 21816
+Parent 21811 sending SIGUSR1 to Child: 21812
+Parent 21811 sending SIGUSR1 to Child: 21813
+Parent 21811 sending SIGUSR1 to Child: 21814
+Parent 21811 sending SIGUSR1 to Child: 21815
+Parent 21811 sending SIGUSR1 to Child: 21816
+Parent: 21811 send SIGSTOP to Child: 21812
+Parent: 21811 send SIGSTOP to Child: 21813
+Parent: 21811 send SIGSTOP to Child: 21814
+Parent: 21811 send SIGSTOP to Child: 21815
+Parent: 21811 send SIGSTOP to Child: 21816
+Parent: 21811 resumed Child: 21812
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21812
+Parent: 21811 resumed Child: 21813
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21813
+Parent: 21811 resumed Child: 21814
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21814
+Parent: 21811 resumed Child: 21815
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21815
+Parent: 21811 resumed Child: 21816
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21816
+Parent: 21811 resumed Child: 21812
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21812
+Parent: 21811 resumed Child: 21813
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21813
+Parent: 21811 resumed Child: 21814
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21814
+Parent: 21811 resumed Child: 21815
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21815
+Parent: 21811 resumed Child: 21816
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21816
+Parent: 21811 resumed Child: 21812
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21812
+Parent: 21811 resumed Child: 21813
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21813
+Parent: 21811 resumed Child: 21814
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21814
+Parent: 21811 resumed Child: 21815
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21815
+Parent: 21811 resumed Child: 21816
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21816
+Parent: 21811 resumed Child: 21812
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21812
+Parent: 21811 resumed Child: 21813
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21813
+Parent: 21811 resumed Child: 21814
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21814
+Parent: 21811 resumed Child: 21815
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21815
+Parent: 21811 resumed Child: 21816
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21816
+Parent: 21811 resumed Child: 21812
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21812
+Parent: 21811 resumed Child: 21813
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21813
+Parent: 21811 resumed Child: 21814
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21814
+Parent: 21811 resumed Child: 21815
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21815
+Parent: 21811 resumed Child: 21816
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21816
+Parent: 21811 resumed Child: 21812
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21812
+Parent: 21811 resumed Child: 21813
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21813
+Parent: 21811 resumed Child: 21814
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21814
+Parent: 21811 resumed Child: 21815
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21815
+Parent: 21811 resumed Child: 21816
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21816
+Parent: 21811 resumed Child: 21812
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21812
+Parent: 21811 resumed Child: 21813
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21813
+Parent: 21811 resumed Child: 21814
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21814
+Parent: 21811 resumed Child: 21815
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21815
+Parent: 21811 resumed Child: 21816
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21816
+Parent: 21811 resumed Child: 21813
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21813
+Parent: 21811 resumed Child: 21814
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21814
+Parent: 21811 resumed Child: 21815
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21815
+Parent: 21811 resumed Child: 21816
+Parent got SIGALRM
+Parent: 21811 stopped Child: 218File Opened.
+Parent: 21811 created Child: 21812
+Child: 21813 waiting to get SIGUSR1
+Child: 21813 has SIGUSR1
+Child: 21824 waiting to get SIGUSR1
+Child: 21824 has SIGUSR1
+Parent: 21811 created Child: 21866
+Parent: 21811 created Child: 21867
+Parent 21811 sending SIGUSR1 to Child: 21812
+Parent 21811 sending SIGUSR1 to Child: 21866
+Parent 21811 sending SIGUSR1 to Child: 21867
+Parent: 21811 send SIGSTOP to Child: 21812
+Parent: 21811 send SIGSTOP to Child: 21866
+Parent: 21811 send SIGSTOP to Child: 21867
+Parent: 21811 resumed Child: 21812
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21812
+Parent: 21811 resumed Child: 21866
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21866
+Parent: 21811 resumed Child: 21867
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21867
+Parent: 21811 resumed Child: 21812
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21812
+Parent: 21811 resumed Child: 21866
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21866
+Parent: 21811 resumed Child: 21867
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21867
+Parent: 21811 resumed Child: 21812
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21812
+Parent: 21811 resumed Child: 21866
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21866
+Parent: 21811 resumed Child: 21867
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21867
+Parent: 21811 resumed Child: 21812
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21812
+Parent: 21811 resumed Child: 21866
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21866
+Parent: 21811 resumed Child: 21867
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21867
+Parent: 21811 resumed Child: 21812
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21812
+Parent: 21811 resumed Child: 21866
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21866
+Parent: 21811 resumed Child: 21867
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21867
+Parent: 21811 resumed Child: 21812
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21812
+Parent: 21811 resumed Child: 21866
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21866
+Parent: 21811 resumed Child: 21867
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21867
+Parent: 21811 resumed Child: 21812
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21812
+Parent: 21811 resumed Child: 21866
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21866
+Parent: 21811 resumed Child: 21867
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21867
+Parent: 21811 resumed Child: 21867
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21867
+All processes completed. Exiting..
+File Opened.
+Parent: 21811 created Child: 21812
+Child: 21813 waiting to get SIGUSR1
+Child: 21813 has SIGUSR1
+Parent: 21811 created Child: 21824
+Child: 21825 waiting to get SIGUSR1
+Child: 21825 has SIGUSR1
+Child: 21865 waiting to get SIGUSR1
+Child: 21865 has SIGUSR1
+Parent 21811 sending SIGUSR1 to Child: 21812
+Parent 21811 sending SIGUSR1 to Child: 21824
+Parent: 21811 send SIGSTOP to Child: 21812
+Parent: 21811 send SIGSTOP to Child: 21824
+Parent: 21811 resumed Child: 21812
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21812
+Parent: 21811 resumed Child: 21824
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21824
+Parent: 21811 resumed Child: 21812
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21812
+Parent: 21811 resumed Child: 21824
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21824
+Parent: 21811 resumed Child: 21812
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21812
+Parent: 21811 resumed Child: 21824
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21824
+Parent: 21811 resumed Child: 21812
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21812
+Parent: 21811 resumed Child: 21824
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21824
+Parent: 21811 resumed Child: 21812
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21812
+Parent: 21811 resumed Child: 21824
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21824
+Parent: 21811 resumed Child: 21812
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21812
+Parent: 21811 resumed Child: 21824
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21824
+Parent: 21811 resumed Child: 21824
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21824
+Parent: 21811 resumed Child: 21824
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21824
+Parent: 21811 resumed Child: 21824
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21824
+Parent: 21811 resumed Child: 21824
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21824
+Parent: 21811 resumed Child: 21824
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21824
+Parent: 21811 resumed Child: 21824
+Parent got SIGALRM
+All processes completed. Exiting..
+File Opened.
+Parent: 21811 created Child: 21812
+Child: 21813 waiting to get SIGUSR1
+Child: 21813 has SIGUSR1
+Parent: 21811 created Child: 21824
+Child: 21825 waiting to get SIGUSR1
+Child: 21825 has SIGUSR1
+Parent: 21811 created Child: 21865
+Parent 21811 sending SIGUSR1 to Child: 21812
+Parent 21811 sending SIGUSR1 to Child: 21824
+Parent 21811 sending SIGUSR1 to Child: 21865
+Parent: 21811 send SIGSTOP to Child: 21812
+Parent: 21811 send SIGSTOP to Child: 21824
+Parent: 21811 send SIGSTOP to Child: 21865
+Parent: 21811 resumed Child: 21812
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21812
+Parent: 21811 resumed Child: 21824
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21824
+Parent: 21811 resumed Child: 21865
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21865
+Parent: 21811 resumed Child: 21812
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21812
+Parent: 21811 resumed Child: 21824
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21824
+Parent: 21811 resumed Child: 21865
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21865
+Parent: 21811 resumed Child: 21812
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21812
+Parent: 21811 resumed Child: 21824
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21824
+Parent: 21811 resumed Child: 21865
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21865
+Parent: 21811 resumed Child: 21812
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21812
+Parent: 21811 resumed Child: 21824
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21824
+Parent: 21811 resumed Child: 21865
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21865
+Parent: 21811 resumed Child: 21812
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21812
+Parent: 21811 resumed Child: 21824
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21824
+Parent: 21811 resumed Child: 21865
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21865
+Parent: 21811 resumed Child: 21812
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21812
+Parent: 21811 resumed Child: 21824
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21824
+Parent: 21811 resumed Child: 21865
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21865
+Parent: 21811 resumed Child: 21824
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21824
+Parent: 21811 resumed Child: 21865
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21865
+Parent: 21811 resumed Child: 21824
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21824
+Parent: 21811 resumed Child: 21865
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21865
+Parent: 21811 resumed Child: 21824
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21824
+Parent: 21811 resumed Child: 21865
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21865
+Parent: 21811 resumed Child: 21824
+Parent got SIGALRM
+Parent: 21811 resumed Child: 21865
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21865
+All processes completed. Exiting..
+File Opened.
+Parent: 21811 created Child: 21812
+Child: 21813 waiting to get SIGUSR1
+Child: 21813 has SIGUSR1
+Parent: 21811 created Child: 21824
+Parent: 21811 created Child: 21825
+Child: 21826 waiting to get SIGUSR1
+Child: 21826 has SIGUSR1
+Parent 21811 sending SIGUSR1 to Child: 21812
+Parent 21811 sending SIGUSR1 to Child: 21824
+Parent 21811 sending SIGUSR1 to Child: 21825
+Parent: 21811 send SIGSTOP to Child: 21812
+Parent: 21811 send SIGSTOP to Child: 21824
+Parent: 21811 send SIGSTOP to Child: 21825
+Parent: 21811 resumed Child: 21812
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21812
+Parent: 21811 resumed Child: 21824
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21824
+Parent: 21811 resumed Child: 21825
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21825
+Parent: 21811 resumed Child: 21812
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21812
+Parent: 21811 resumed Child: 21824
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21824
+Parent: 21811 resumed Child: 21825
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21825
+Parent: 21811 resumed Child: 21812
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21812
+Parent: 21811 resumed Child: 21824
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21824
+Parent: 21811 resumed Child: 21825
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21825
+Parent: 21811 resumed Child: 21812
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21812
+Parent: 21811 resumed Child: 21824
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21824
+Parent: 21811 resumed Child: 21825
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21825
+Parent: 21811 resumed Child: 21824
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21824
+Parent: 21811 resumed Child: 21825
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21825
+Parent: 21811 resumed Child: 21824
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21824
+Parent: 21811 resumed Child: 21825
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21825
+Parent: 21811 resumed Child: 21824
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21824
+Parent: 21811 resumed Child: 21825
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21825
+Parent: 21811 resumed Child: 21825
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21825
+Parent: 21811 resumed Child: 21825
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21825
+Parent: 21811 resumed Child: 21825
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21825
+Parent: 21811 resumed Child: 21825
+Parent got SIGALRM
+All processes completed. Exiting..
+File Opened.
+Parent: 21811 created Child: 21812
+Child: 21813 waiting to get SIGUSR1
+Child: 21813 has SIGUSR1
+Parent: 21811 created Child: 21824
+Parent: 21811 created Child: 21825
+Parent: 21811 created Child: 21826
+Parent 21811 sending SIGUSR1 to Child: 21812
+Parent 21811 sending SIGUSR1 to Child: 21824
+Parent 21811 sending SIGUSR1 to Child: 21825
+Parent 21811 sending SIGUSR1 to Child: 21826
+Parent: 21811 send SIGSTOP to Child: 21812
+Parent: 21811 send SIGSTOP to Child: 21824
+Parent: 21811 send SIGSTOP to Child: 21825
+Parent: 21811 send SIGSTOP to Child: 21826
+Parent: 21811 resumed Child: 21812
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21812
+Parent: 21811 resumed Child: 21824
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21824
+Parent: 21811 resumed Child: 21825
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21825
+Parent: 21811 resumed Child: 21826
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21826
+Parent: 21811 resumed Child: 21812
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21812
+Parent: 21811 resumed Child: 21824
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21824
+Parent: 21811 resumed Child: 21825
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21825
+Parent: 21811 resumed Child: 21826
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21826
+Parent: 21811 resumed Child: 21812
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21812
+Parent: 21811 resumed Child: 21824
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21824
+Parent: 21811 resumed Child: 21825
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21825
+Parent: 21811 resumed Child: 21826
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21826
+Parent: 21811 resumed Child: 21812
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21812
+Parent: 21811 resumed Child: 21824
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21824
+Parent: 21811 resumed Child: 21825
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21825
+Parent: 21811 resumed Child: 21826
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21826
+Parent: 21811 resumed Child: 21812
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21812
+Parent: 21811 resumed Child: 21824
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21824
+Parent: 21811 resumed Child: 21825
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21825
+Parent: 21811 resumed Child: 21826
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21826
+Parent: 21811 resumed Child: 21812
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21812
+Parent: 21811 resumed Child: 21824
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21824
+Parent: 21811 resumed Child: 21825
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21825
+Parent: 21811 resumed Child: 21826
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21826
+Parent: 21811 resumed Child: 21824
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21824
+Parent: 21811 resumed Child: 21825
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21825
+Parent: 21811 resumed Child: 21826
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21826
+Parent: 21811 resumed Child: 21824
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21824
+Parent: 21811 resumed Child: 21825
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21825
+Parent: 21811 resumed Child: 21826
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21826
+Parent: 21811 resumed Child: 21825
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21825
+Parent: 21811 resumed Child: 21826
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21826
+Parent: 21811 resumed Child: 21825
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21825
+Parent: 21811 resumed Child: 21826
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21826
+Parent: 21811 resumed Child: 21826
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21826
+Parent: 21811 resumed Child: 21826
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21826
+All processes completed. Exiting..
+File Opened.
+Parent: 21811 created Child: 21812
+Parent: 21811 created Child: 21813
+Child: 21814 waiting to get SIGUSR1
+Child: 21814 has SIGUSR1
+Child: 21818 waiting to get SIGUSR1
+Child: 21818 has SIGUSR1
+Child: 21875 waiting to get SIGUSR1
+Child: 21875 has SIGUSR1
+Parent 21811 sending SIGUSR1 to Child: 21812
+Parent 21811 sending SIGUSR1 to Child: 21813
+Parent: 21811 send SIGSTOP to Child: 21812
+Parent: 21811 send SIGSTOP to Child: 21813
+Parent: 21811 resumed Child: 21812
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21812
+Parent: 21811 resumed Child: 21813
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21813
+Parent: 21811 resumed Child: 21812
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21812
+Parent: 21811 resumed Child: 21813
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21813
+Parent: 21811 resumed Child: 21812
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21812
+Parent: 21811 resumed Child: 21813
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21813
+Parent: 21811 resumed Child: 21812
+Parent got SIGALRM
+Parent: 21811 resumed Child: 21813
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21813
+Parent: 21811 resumed Child: 21813
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21813
+Parent: 21811 resumed Child: 21813
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21813
+Parent: 21811 resumed Child: 21813
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21813
+Parent: 21811 resumed Child: 21813
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21813
+Parent: 21811 resumed Child: 21813
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21813
+Parent: 21811 resumed Child: 21813
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21813
+Parent: 21811 resumed Child: 21813
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21813
+Parent: 21811 resumed Child: 21813
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21813
+Parent: 21811 resumed Child: 21813
+Parent got SIGALRM
+Parent: 21811 stopped Child: 21813
+Parent: 21811 resumed Child: 21813
+Parent got SIGALRM
+All processes completed. Exiting..
